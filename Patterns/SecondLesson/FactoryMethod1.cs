@@ -1,5 +1,5 @@
 ﻿namespace Patterns.SecondLesson;
 
-public class FactoryMethod
+public class FactoryMethod1
 {
 }
